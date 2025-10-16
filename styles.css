@@ -19,3 +19,25 @@ body{
     border-radius: 8px;
 }
 
+.img-picture{
+    max-width: 400px;
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+
+.hobbies-box{
+    margin: 50px 0; /* Space outside the box */
+    padding: 20px; /* Space inside the box */
+    border: 2px solid #128C7E;
+    border-radius: 8px;
+    background-color: #e0f7fa;
+}
+
+.contact-box{
+    margin: 50px 0; /* Space outside the box */
+    padding: 20px; /* Space inside the box */
+    border: 2px dotted  #128C7E;
+    border-radius: 8px;
+    background-color: #e0f7fa;
+}   
